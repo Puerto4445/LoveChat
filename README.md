@@ -30,7 +30,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, puedes hac
 
 Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto con el autor del proyecto:
 
-PUERTO4444 
+PUERTO4444 - sos_mi_fan1@outlook.com
 
 ## Agradecimientos
 
