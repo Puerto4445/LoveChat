@@ -9,6 +9,7 @@ Este proyecto consiste en la creación de un chat multi-usuario en Python con un
   - `socket`
   - `threading`
   - `tkinter`
+  - `Bootstrap`
 
 ## Ejecución
 
